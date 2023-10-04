@@ -1,0 +1,34 @@
+{
+  "metas": [
+    {
+      "valorMeta": 10000,
+      "valorTotalAlcancadoPorContrato": 2200
+    }
+  ],
+  "meses": [
+    {
+      "id": 1,
+      "NomeMes": "jan",
+      "ano": "2023",
+      "valorTotal": 1500
+    },
+    {
+      "id": 2,
+      "NomeMes": "fev",
+      "ano": "2023",
+      "valorTotal": 1200
+    },
+    {
+      "id": 1695502372859,
+      "NomeMes": "mar",
+      "ano": "2023",
+      "valorTotal": 1100
+    },
+    {
+      "id": 1695502398242,
+      "NomeMes": "abr",
+      "ano": "2023",
+      "valorTotal": 1100
+    }
+  ]
+}

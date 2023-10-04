@@ -1,3 +1,4 @@
+import { RoutesPages } from "./routes"
 
 
 export const App = () => {
@@ -5,7 +6,7 @@ export const App = () => {
 
   return (
     <>
-      fdsfdf
+      <RoutesPages />
     </>
   )
 }

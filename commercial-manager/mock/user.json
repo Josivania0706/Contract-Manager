@@ -1,0 +1,9 @@
+{
+  "usuarios": [
+    {
+      "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2OTU0OTQwMDIsImV4cCI6MTY5NTQ5NzYwMn0.TRPGyMgQI62tj9DYnJSczIyf82cxjgjZStAGYUMVnNM",
+      "email": "includejr@gmail.com",
+      "password": "comercial2023"
+    }
+  ]
+}
